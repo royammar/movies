@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/%E2%80%8Bhttps://royammar.github.io/movies%E2%80%8B/static/css/main.995f86e0.chunk.css",
-    "main.js": "/%E2%80%8Bhttps://royammar.github.io/movies%E2%80%8B/static/js/main.0ed354ea.chunk.js",
-    "main.js.map": "/%E2%80%8Bhttps://royammar.github.io/movies%E2%80%8B/static/js/main.0ed354ea.chunk.js.map",
-    "runtime-main.js": "/%E2%80%8Bhttps://royammar.github.io/movies%E2%80%8B/static/js/runtime-main.c522bac1.js",
-    "runtime-main.js.map": "/%E2%80%8Bhttps://royammar.github.io/movies%E2%80%8B/static/js/runtime-main.c522bac1.js.map",
-    "static/css/2.42b14877.chunk.css": "/%E2%80%8Bhttps://royammar.github.io/movies%E2%80%8B/static/css/2.42b14877.chunk.css",
-    "static/js/2.569af0e1.chunk.js": "/%E2%80%8Bhttps://royammar.github.io/movies%E2%80%8B/static/js/2.569af0e1.chunk.js",
-    "static/js/2.569af0e1.chunk.js.map": "/%E2%80%8Bhttps://royammar.github.io/movies%E2%80%8B/static/js/2.569af0e1.chunk.js.map",
-    "index.html": "/%E2%80%8Bhttps://royammar.github.io/movies%E2%80%8B/index.html",
-    "precache-manifest.f3f2170c158d5050916fcad4094330df.js": "/%E2%80%8Bhttps://royammar.github.io/movies%E2%80%8B/precache-manifest.f3f2170c158d5050916fcad4094330df.js",
-    "service-worker.js": "/%E2%80%8Bhttps://royammar.github.io/movies%E2%80%8B/service-worker.js",
-    "static/css/2.42b14877.chunk.css.map": "/%E2%80%8Bhttps://royammar.github.io/movies%E2%80%8B/static/css/2.42b14877.chunk.css.map",
-    "static/css/main.995f86e0.chunk.css.map": "/%E2%80%8Bhttps://royammar.github.io/movies%E2%80%8B/static/css/main.995f86e0.chunk.css.map",
-    "static/js/2.569af0e1.chunk.js.LICENSE.txt": "/%E2%80%8Bhttps://royammar.github.io/movies%E2%80%8B/static/js/2.569af0e1.chunk.js.LICENSE.txt",
-    "static/media/global.scss": "/%E2%80%8Bhttps://royammar.github.io/movies%E2%80%8B/static/media/chairs.670e50b1.jpg",
-    "static/media/slick-theme.css": "/%E2%80%8Bhttps://royammar.github.io/movies%E2%80%8B/static/media/slick.f97e3bbf.svg"
+    "main.css": "/movies/static/css/main.ae607095.chunk.css",
+    "main.js": "/movies/static/js/main.3ccd58ed.chunk.js",
+    "main.js.map": "/movies/static/js/main.3ccd58ed.chunk.js.map",
+    "runtime-main.js": "/movies/static/js/runtime-main.e2fdec1d.js",
+    "runtime-main.js.map": "/movies/static/js/runtime-main.e2fdec1d.js.map",
+    "static/css/2.ddb5edb4.chunk.css": "/movies/static/css/2.ddb5edb4.chunk.css",
+    "static/js/2.569af0e1.chunk.js": "/movies/static/js/2.569af0e1.chunk.js",
+    "static/js/2.569af0e1.chunk.js.map": "/movies/static/js/2.569af0e1.chunk.js.map",
+    "index.html": "/movies/index.html",
+    "precache-manifest.6c97e7455a7ec33d4199e63d714612e8.js": "/movies/precache-manifest.6c97e7455a7ec33d4199e63d714612e8.js",
+    "service-worker.js": "/movies/service-worker.js",
+    "static/css/2.ddb5edb4.chunk.css.map": "/movies/static/css/2.ddb5edb4.chunk.css.map",
+    "static/css/main.ae607095.chunk.css.map": "/movies/static/css/main.ae607095.chunk.css.map",
+    "static/js/2.569af0e1.chunk.js.LICENSE.txt": "/movies/static/js/2.569af0e1.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/movies/static/media/chairs.670e50b1.jpg",
+    "static/media/slick-theme.css": "/movies/static/media/slick.f97e3bbf.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c522bac1.js",
-    "static/css/2.42b14877.chunk.css",
+    "static/js/runtime-main.e2fdec1d.js",
+    "static/css/2.ddb5edb4.chunk.css",
     "static/js/2.569af0e1.chunk.js",
-    "static/css/main.995f86e0.chunk.css",
-    "static/js/main.0ed354ea.chunk.js"
+    "static/css/main.ae607095.chunk.css",
+    "static/js/main.3ccd58ed.chunk.js"
   ]
 }
